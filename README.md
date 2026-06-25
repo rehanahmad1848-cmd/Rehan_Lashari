@@ -97,11 +97,11 @@ $ cat current_focus.txt
 
 | Lab | Difficulty | Topics Covered | Status |
 |-----|-----------|----------------|--------|
-| [Simple CTF](https://github.com/rehanahmad1848-cmd/Simple_CTF-THM-Lab) | 🟢 Easy | FTP, SSH, Privilege Escalation | ✅ Done |
-| [W1seGuy](https://github.com/rehanahmad1848-cmd/W1seGuy-THM-Lab) | 🟡 Medium | Web Exploitation | ✅ Done |
+| [Simple CTF](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/Simple_CTF-THM-Lab) | 🟢 Easy | FTP, SSH, Privilege Escalation | ✅ Done |
+| [W1seGuy](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/W1seGuy-THM-Lab) | 🟢 Easy | Web Exploitation | ✅ Done |
 | [Fortress](https://github.com/rehanahmad1848-cmd/Fortress-THM-labs) | 🟡 Medium | Advanced Enumeration | ✅ Done |
-| [H4cked](https://github.com/rehanahmad1848-cmd/H4cked-THM-Lab) | 🟡 Medium | Log Analysis, Recovery | ✅ Done |
-| [THM Labs](https://github.com/rehanahmad1848-cmd/THM-Labs) | 
+| [H4cked](https://github.com/rehanahmad1848-cmd/H4cked-THM-Lab) | 🟢 Easy | Log Analysis, Recovery | ✅ Done |
+| [THM Labs](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough) | 
 
 ---
 
