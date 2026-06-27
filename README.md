@@ -38,9 +38,9 @@ $ cat interests.txt
 
 $ cat current_focus.txt
 > 🎯 Actively solving TryHackMe labs
-> 📚 Learning Web App Security & Privilege Escalation
+> 🎓 Learning Web App Security & Privilege Escalation
 > 🔐 Building my hacking toolkit
-> 🎓 Self Learning CCNA PEN-200 CCOA (Practecing)
+> 📚 Self Learning CCNA PEN-200 CCOA (Practecing)
 ```
 
 ---
