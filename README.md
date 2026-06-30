@@ -34,13 +34,14 @@ $ whoami
 
 $ cat interests.txt
 > Penetration Testing | CTF Challenges | Network Security
-> Linux | Bash Scripting | Python | C++
+> Linux | Bash Scripting | Python | C++ | KQL
 
 $ cat current_focus.txt
 > 🎯 Actively solving TryHackMe labs
 > 🎓 Learning Web App Security & Privilege Escalation
 > 🔐 Building my hacking toolkit
 > 📚 Self Learning CCNA PEN-200 CCOA (Practecing)
+> 🛜 Solving Networking labs on Cisco packet tracer and  EVE-NG
 ```
 
 ---
