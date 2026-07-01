@@ -98,10 +98,11 @@ $ cat current_focus.txt
 
 | Lab | Difficulty | Topics Covered | Status |
 |-----|-----------|----------------|--------|
-| [Simple CTF](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/Simple_CTF-THM-Lab) | 🟢 Easy | FTP, SSH, Privilege Escalation | ✅ Done |
-| [W1seGuy](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/W1seGuy-THM-Lab) | 🟢 Easy | Web Exploitation | ✅ Done |
-| [Fortress](https://github.com/rehanahmad1848-cmd/Fortress-THM-labs) | 🟡 Medium | Advanced Enumeration | ✅ Done |
-| [H4cked](https://github.com/rehanahmad1848-cmd/H4cked-THM-Lab) | 🟢 Easy | Log Analysis, Recovery | ✅ Done |
+| [Simple CTF](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Simple-CTF) | 🟢 Easy | FTP, SSH, Privilege Escalation | ✅ Done |
+| [W1seGuy](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/W1seGuy) | 🟢 Easy | Web Exploitation | ✅ Done |
+| [Fortress](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Fortress) | 🟡 Medium | Advanced Enumeration | ✅ Done |
+| [H4cked](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/H4cked) | 🟢 Easy | Log Analysis, Recovery | ✅ Done |
+| [Smol](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Smol) | 🟡 Medium | LFI to Privilege Escalation | ✅ Done |
 | [THM Labs](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough) | 
 
 ---
