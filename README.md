@@ -103,6 +103,7 @@ $ cat current_focus.txt
 | [Fortress](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Fortress) | 🟡 Medium | Advanced Enumeration | ✅ Done |
 | [H4cked](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/H4cked) | 🟢 Easy | Log Analysis, Recovery | ✅ Done |
 | [Smol](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Smol) | 🟡 Medium | LFI to Privilege Escalation | ✅ Done |
+| [Thompson](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough/tree/main/Thompson) | 🟢 Easy | Recon, Privilege Escalation | ✅ Done |
 | [THM Labs](https://github.com/rehanahmad1848-cmd/THM-Labs-Walkthrough) | 
 
 ---
